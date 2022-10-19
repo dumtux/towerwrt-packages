@@ -1,0 +1,3 @@
+[submodule "agpio-switch-mt7688"]
+	path = agpio-switch-mt7688
+	url = https://github.com/hotteshen/agpio-switch-mt7688
