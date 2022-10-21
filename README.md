@@ -3,7 +3,7 @@
 Add the following line to feeds.conf or feeds.conf.default.
 
 ```
-src-git-full custom https://github.com/hotteshen/towerwrt-packages
+src-git-full custom https://github.com/badtux/towerwrt-packages
 ```
 
 Run
