@@ -1,4 +1,4 @@
-# OpenWrt Custom Packages Collection
+# TowerWrt Packages - Custom OpenWrt Packages for TowerController III
 
 Add the following line to feeds.conf or feeds.conf.default.
 
