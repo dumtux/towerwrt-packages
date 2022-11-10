@@ -1,7 +1,4 @@
 [submodule "agpio-switch-mt7688"]
 	path = agpio-switch-mt7688
 	url = https://github.com/dumtux/agpio-switch-mt7688
-
-[submodule "mcp251x-half-duplex"]
-	path = mcp251x-half-duplex
-	url = https://github.com/dumtux/mcp251x-half-duplex
+	
