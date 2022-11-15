@@ -25,6 +25,7 @@ include ../python3-package.mk
 define Package/python3-pyserial-asyncio
   SECTION:=lang-python
   CATEGORY:=TowerSoftware
+  SUBMENU:=Python packages
   TITLE:=python3-pyserial-asyncio
   URL:=https://github.com/pyserial/pyserial-asyncio
   DEPENDS:=+python3-light +python3-pyserial
