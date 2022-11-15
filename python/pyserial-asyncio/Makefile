@@ -12,7 +12,8 @@ PKG_VERSION:=0.6
 PKG_RELEASE:=1
 
 PYPI_NAME:=pyserial-asyncio
-PKG_HASH:=6abf0074a2efc074337afa334bce1a0a9caf3dee
+PKG_HASH:=409f32a35a3b530e6b2224e2a5b367da
+
 
 PKG_LICENSE:=BSD
 PKG_MAINTAINER:=DumTux <tekobase@outlook.com>
@@ -39,4 +40,3 @@ endef
 
 $(eval $(call Py3Package,python3-pyserial-asyncio))
 $(eval $(call BuildPackage,python3-pyserial-asyncio))
-$(eval $(call BuildPackage,python3-pyserial-asyncio-src))
